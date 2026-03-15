@@ -7,7 +7,7 @@ This module adds checklists to leads. Configure your own checklist items via the
 
 No specials, plain install. CRM needs to be available on your system.
 
-# Usage / Context
+# Context
 
 With every lead you may have to follow repetetive steps. With this module you can define them, get the automatically added as a checklist to your lead and then track an overall progress of the checklist items done per lead.
 
